@@ -11,14 +11,20 @@ _**DATASET DESCRIPTION**_
 **ACRIMA**
 	ACRIMA database is composed by 705 fundus images All images from ACRIMA database were annotated by 	glaucoma experts with several years of experience. They were cropped around the optic disc and renamed.
 
- ![image](https://github.com/user-attachments/assets/ce19ef33-fab4-410c-aeee-44c7db5a160a)
+ ![image](https://github.com/user-attachments/assets/6a03d779-e49a-4c3a-8a6c-9b876b426c6e)
+
 
  
 **DRISHTI-GS**
   This Dataset contains 50 train images and 51 test Images. In Each Directory there are two folders one is images and the second one is GT. The later folder contains Optic Disk and Cup masks associated with the images in the Images folder.
+
+  ![image](https://github.com/user-attachments/assets/ce19ef33-fab4-410c-aeee-44c7db5a160a)
   
 **RIMONE**
   The RIM-ONE database contains 169 optic nerve head images. Each image has 5 manual segmentations from ophthalmic experts. A gold standard for each image was created from its corresponding segmentations.
+
+  ![image](https://github.com/user-attachments/assets/a44118ff-b0a8-4c00-9d99-35e55107da4c)
+
 
 **INDIVIDUAL DATASETS**
 
