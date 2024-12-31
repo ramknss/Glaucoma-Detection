@@ -1,3 +1,5 @@
+**Note:Trained Models and Datasets are excluded from repo as the size is too large**
+
 _**What is Glaucoma?**_
 Glaucoma is a chronic eye condition that damages the optic nerve, often due to increased intraocular pressure. It is a leading cause of irreversible blindness worldwide. Glaucoma is typically asymptomatic in its early stages but can result in gradual peripheral vision loss and, if untreated, complete blindness. Regular eye exams are essential for early detection, as timely treatment—such as medications, laser therapy, or surgery—can slow its progression.
 
