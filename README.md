@@ -1,3 +1,9 @@
+_**What is Glaucoma?**_
+Glaucoma is a chronic eye condition that damages the optic nerve, often due to increased intraocular pressure. It is a leading cause of irreversible blindness worldwide. Glaucoma is typically asymptomatic in its early stages but can result in gradual peripheral vision loss and, if untreated, complete blindness. Regular eye exams are essential for early detection, as timely treatment—such as medications, laser therapy, or surgery—can slow its progression.
+
+![image](https://github.com/user-attachments/assets/9383b1fe-57bb-4810-b4ec-bd8a587d1f75)
+
+
 _**DATASET DESCRIPTION**_
 
 **ACRIMA**
@@ -8,6 +14,11 @@ _**DATASET DESCRIPTION**_
   
 **RIMONE**
   The RIM-ONE database contains 169 optic nerve head images. Each image has 5 manual segmentations from ophthalmic experts. A gold standard for each image was created from its corresponding segmentations.
+
+**INDIVIDUAL DATASETS**
+  https://www.kaggle.com/datasets/toaharahmanratul/acrima-dataset
+  https://www.kaggle.com/datasets/lokeshsaipureddi/drishtigs-retina-dataset-for-onh-segmentation
+  https://www.kaggle.com/datasets/lucascunhadecarvalho/rimoner2
   
   ![image](https://github.com/user-attachments/assets/fc1f0733-e26c-4216-84fc-8b19beaee128)
 
