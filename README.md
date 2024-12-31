@@ -11,6 +11,8 @@ _**DATASET DESCRIPTION**_
   
   ![image](https://github.com/user-attachments/assets/fc1f0733-e26c-4216-84fc-8b19beaee128)
 
+  We considered 3 different datasets and combined them to become a large dataset. The primary step of any model building will be pre-processing of the data. The pre-processing of data means converting the raw data into required form so that the analyzation becomes easy. The preprocessing and data augmentation is done by image data generator. The augmented images are then sent for feature selection. In the feature extraction and classification we are using  Convolutional neural network. As we know neural networks are composed of many layers like convolution,pooling, fully-connected layers etc., And also have activation functions. CNN takes image as input for training. This may improve the prediction accuracy of the model. Based on the  amount of pressure, the stage of the glaucoma can be determined.
+
   **Samples in each derived class**
 ![image](https://github.com/user-attachments/assets/5f27f6fe-53d6-4b58-93c0-e03dd6933ea0)
 
