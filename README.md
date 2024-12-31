@@ -10,6 +10,9 @@ _**DATASET DESCRIPTION**_
 
 **ACRIMA**
 	ACRIMA database is composed by 705 fundus images All images from ACRIMA database were annotated by 	glaucoma experts with several years of experience. They were cropped around the optic disc and renamed.
+
+ ![image](https://github.com/user-attachments/assets/ce19ef33-fab4-410c-aeee-44c7db5a160a)
+
  
 **DRISHTI-GS**
   This Dataset contains 50 train images and 51 test Images. In Each Directory there are two folders one is images and the second one is GT. The later folder contains Optic Disk and Cup masks associated with the images in the Images folder.
